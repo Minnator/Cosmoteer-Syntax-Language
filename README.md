@@ -1,4 +1,4 @@
-"# Cosmoteer-Syntax-Language" 
+"# Cosmoteer-Syntax-Language by Minnator" 
 This is a project to offer an up to date language and Autocompletion for the modding Syntax of "Cosmoteer" for Notepadd++.
 
 Installation steps for Cosmoteer modding language:
@@ -13,3 +13,5 @@ Installation steps for Cosmoteer autocompletion:
 --> The autocompletion is now always enabled if you have the Cosmoteer modding language selected for the file you are editing.
 
 If there are any problems let me know so I can fix them.
+
+Created by Minnator
