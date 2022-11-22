@@ -1,0 +1,49 @@
+<?xml version="0.9" encoding="windows-1252"?>
+<NotepadPlus>
+    <AutoComplete language="Cosmoteer">
+        <Environment ignoreCase="no" startFunc="(" stopFunc=")" paramSeparator="," terminal="" additionalWordChar="#{@"/>
+		<KeyWord name="Action"/>
+		<KeyWord name="Actions"/>
+		<KeyWord name="Add"/>
+		<KeyWord name="AddBase"/>
+		<KeyWord name="AddBaseTo"/>
+		<KeyWord name="AddMany"/>
+		<KeyWord name="Author"/>
+		<KeyWord name="BaseToAdd"/>
+		<KeyWord name="Bottom"/>
+		<KeyWord name="combat"/>
+		<KeyWord name="CompatibleGameVersions"/>
+		<KeyWord name="CreateIfNotExisting"/>
+		<KeyWord name="Density"/>
+		<KeyWord name="Description"/>
+		<KeyWord name="Difficulty"/>
+		<KeyWord name="Faction"/>
+		<KeyWord name="FameRewardFactor"/>
+		<KeyWord name="File"/>
+		<KeyWord name="ID"/>
+		<KeyWord name="IgnoreIfNotExisting"/>
+		<KeyWord name="Left"/>
+		<KeyWord name="Logo"/>
+		<KeyWord name="ManyToAdd"/>
+		<KeyWord name="MaxBorders"/>
+		<KeyWord name="ModifiesMultiplayer"/>
+		<KeyWord name="MoneyRewardFactor"/>
+		<KeyWord name="Name"/>
+		<KeyWord name="OnlyIfNotExisting"/>
+		<KeyWord name="OverrideIn"/>
+		<KeyWord name="Overrides"/>
+		<KeyWord name="Right"/>
+		<KeyWord name="Remove"/>
+		<KeyWord name="RemoveMany"/>
+		<KeyWord name="Replace"/>
+		<KeyWord name="StringsFolder"/>
+		<KeyWord name="Tags"/>
+		<KeyWord name="Tier"/>
+		<KeyWord name="ToAdd"/>
+		<KeyWord name="Top"/>
+		<KeyWord name="Version"/>
+		<KeyWord name="With"/>
+		<KeyWord name="Actions"/>
+		
+    </AutoComplete>
+</NotepadPlus>
